@@ -4,7 +4,18 @@ Yapay zekâ ajanları, makine öğrenmesi ve robotik üzerine çalışıyorum.
 [TeamMagi](https://github.com/TeamMagi) ekibinin üyesiyim; ekipçe Kaggle ve TEKNOFEST yarışmalarına
 katılıyor, birlikte proje geliştiriyoruz.
 
+🥈 **TEKNOFEST 2026 Yapay Zekâ Dil Ajanları Yarışması, Türkiye ikincisi** (Takım SVARTAL, [proje](https://github.com/erenkendir722/ai-agent-nlp))
+
 ## Yarışmalar
+
+### Katılım Bankacılığı Finansal Metin Madenciliği
+TEKNOFEST 2026 Yapay Zekâ Dil Ajanları Yarışması · **Türkiye ikincisi** · Takım SVARTAL ·
+[depo](https://github.com/erenkendir722/ai-agent-nlp)
+
+Katılım bankalarının kampanya metinlerinden kâr payı, vade, masraf ve avantaj bilgilerini kaynağına
+bağlı biçimde çıkaran, tamamen kurum içinde çalışan bir dil ajanı sistemi.
+
+**Rolüm:** ajan orkestratörü, yerel gömme (embedding) sağlayıcısıyla RAG, yarışma sunumu.
 
 ### Gemma 4 Developer Agent
 Kaggle · 2026 · TeamMagi · *depo gizli (yarışma kuralı)*
@@ -24,15 +35,6 @@ LC-MS/MS kütle spektrumlarından molekülün yapısını bulup her molekül iç
 üretmek (MRR@25).
 
 **Rolüm:** aday havuzu büyüklüğü ve sınıf ağırlığı ölçümleri, sıralama analizi araçları, forum takibi.
-
-### Katılım Bankacılığı Finansal Metin Madenciliği
-TEKNOFEST 2026 Yapay Zekâ Dil Ajanları Yarışması · Takım SVARTAL ·
-[depo](https://github.com/erenkendir722/ai-agent-nlp)
-
-Katılım bankalarının kampanya metinlerinden kâr payı, vade, masraf ve avantaj bilgilerini kaynağına
-bağlı biçimde çıkaran, tamamen kurum içinde çalışan bir dil ajanı sistemi.
-
-**Rolüm:** ajan orkestratörü, yerel gömme (embedding) sağlayıcısıyla RAG, yarışma sunumu.
 
 ## Robotik
 
